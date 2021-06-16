@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
 st.title("Collections Dashboard")
 with st.form(key='columns_in_form'):
   st.write("DPD wise collections - May")
