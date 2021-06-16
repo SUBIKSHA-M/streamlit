@@ -13,3 +13,4 @@ with st.form(key='columns_in_form'):
   submitted1 = st.form_submit_button('Submit')
 if submitted1 :
 	st.write(a,b,c,d,e)
+	st.write("Its working")
