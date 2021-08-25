@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SUBIKSHA-M/new.git.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/SUBIKSHA-M/new.git.io/static/js/main.3534bf6b.chunk.js",
+    "main.js.map": "/SUBIKSHA-M/new.git.io/static/js/main.3534bf6b.chunk.js.map",
+    "runtime-main.js": "/SUBIKSHA-M/new.git.io/static/js/runtime-main.805df51c.js",
+    "runtime-main.js.map": "/SUBIKSHA-M/new.git.io/static/js/runtime-main.805df51c.js.map",
+    "static/js/2.7dba654f.chunk.js": "/SUBIKSHA-M/new.git.io/static/js/2.7dba654f.chunk.js",
+    "static/js/2.7dba654f.chunk.js.map": "/SUBIKSHA-M/new.git.io/static/js/2.7dba654f.chunk.js.map",
+    "static/js/3.6e90ceb2.chunk.js": "/SUBIKSHA-M/new.git.io/static/js/3.6e90ceb2.chunk.js",
+    "static/js/3.6e90ceb2.chunk.js.map": "/SUBIKSHA-M/new.git.io/static/js/3.6e90ceb2.chunk.js.map",
+    "index.html": "/SUBIKSHA-M/new.git.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/SUBIKSHA-M/new.git.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7dba654f.chunk.js.LICENSE.txt": "/SUBIKSHA-M/new.git.io/static/js/2.7dba654f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SUBIKSHA-M/new.git.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.805df51c.js",
+    "static/js/2.7dba654f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3534bf6b.chunk.js"
+  ]
+}
